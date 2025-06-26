@@ -40,7 +40,7 @@ public:
 int main() {
     BowlingGame game;
 
-    // Correct input from image example (total score: 133)
+    // Correct input from  example provided in image (total score: 133)
     vector<int> inputRolls = {4,5, 4,5, 6,4, 10, 9,0, 9,1, 10, 10, 2,4, 2,1};
 
     for (int pins : inputRolls) {

@@ -95,7 +95,7 @@ int main() {
         }
     }
 
-    cout << "\n🎳 Final Score: " << game.score() << endl;
+    cout << "\n Final Score: " << game.score() << endl;
 
     return 0;
 }
